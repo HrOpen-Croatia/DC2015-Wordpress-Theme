@@ -1,0 +1,163 @@
+/*
+Theme Name: DORS/CLUC Bootstrap 2015
+Theme URI: http://2015.dorscluc.org/
+Description: DORS/CLUC C2015 Bootstrap based theme
+Author: Svebor Prstačić
+Author URI: http://www.twitter.com/sprstacic
+Version: 1.0
+*/
+
+@font-face {font-family: "Ubuntu-R";src: url(dist/fonts/Ubuntu-R.ttf) format("truetype");}
+@font-face {font-family: "BebasNeue";src: url(dist/fonts/BebasNeue.otf) format("truetype");}
+
+
+a {
+    color: #25aae1;
+}
+
+.header-image {
+    background: url(back.jpg) no-repeat top left;
+    height: 554px; 
+}
+
+.main-title {
+    text-align:center;
+    margin: 30px auto;
+}
+
+.main-title img {
+    margin: 0px auto;
+}
+
+.header-image .date {
+    margin: 20px auto;
+    text-align:center;
+    color: white;
+    font-size: 26px;
+    font-weight:bold;
+}
+
+.header-image .date .where {
+    color: #B6EFFF;
+}
+
+.header-image .sponsor-message {
+
+    background: rgba(38, 77, 98, 0.5);
+    text-align:center;
+    color: white;
+    width: 65%;
+}
+
+.header-image .sponsor-message h3, .header-image .sponsor-message h4 {
+    color:white;
+}
+
+.gray-bg {
+    background-color: #d9d9d9;
+}
+
+.action-links {
+    padding-top: 20px;
+    padding-bottom: 20px; 
+}
+
+.white, .subbanner-link {
+    color: white;
+}
+
+.subbanner-link, .subbanner-link-blue {
+    font-size: 38px;
+    text-transform: uppercase;
+    font-family: "Babas Neue", Sans Serif;
+}
+
+.subbanner-link-blue {
+    font-size: 32px;
+}
+
+.subbanner-link-blue {
+    color: #337ab7;
+}
+
+h1, h2, h3, h4, h5 {
+    color: #25aae1;
+}
+
+.navbar-brand {
+position:relative;
+    top: -15px;
+}
+.navbar-toggle {
+    background:white;
+}
+
+.navigation {
+    background: black;
+}
+
+.navigation a {
+    font-weight:bold;
+}
+
+h2.keynotes {
+    color: #9c9c9c;
+    text-transform: uppercase;
+    font-size:36px;
+    font-family: 'Ubuntu-R', 'BebasNeue';
+}
+
+.blue-text {
+    color: #57b4db;
+    text-align:center;
+}
+
+.quicklinks {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.quicklinks .container {
+    border-top: 1px solid black;
+}
+
+.quicklink {
+    border-bottom: 1px solid black;
+    padding-bottom: 15px;
+    padding-top: 15px;
+} 
+
+.quicklink .btn {
+    width: 80%;
+    text-align:center;
+}
+
+.quicklink .outline {
+    font-size: 24px;
+    color: #4f4f4f;
+}
+
+.social {
+    font-size: 23px;
+    color: #25aae1;
+}
+
+.heighten-row {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.web-licence {
+    background-color: #272727;
+    color: #9c9c9c;
+    font-size: 18px;
+    font-family: BebasNeue;
+}
+
+.subfooter-sponsors .thumbnail {
+    border: none;
+}
+
+.white-text {
+    color:white;
+}
