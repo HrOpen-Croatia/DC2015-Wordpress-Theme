@@ -43,7 +43,7 @@
                 <div class="col-md-4">
 	                <!--<a class="subbanner-link-blue" href="/hr/raspored-predavanja" >Conference schedule</a>-->
 	                <a class="subbanner-link-blue" href="http://www.open.hr/2015/02/natjecaj-za-dodjelu-nagrade-otvorena-informatika-za-postignuca-u-2014-godini/" >Open IT award</a>
-	                <span class="white-text">Croatian only</span>
+	                <br><span class="white-text">Croatian only</span>
                 </div>
             </div>
         </div>
