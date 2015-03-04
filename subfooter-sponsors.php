@@ -68,6 +68,13 @@
                         <a href="http://www.hgk.hr/en" ><img class="silver-sponsor-logo-image" src="<?php bloginfo('template_url');?>/sponsors/hgk-text-logo.png" alt="HGK logo" title="Croatian Chamber of Economy" /></a>
                     </div>
                 </div>-->                
+		<div class="col-sm-6 col-md-3">
+                    <div class="thumbnail">
+                        <a href="http://www.pointer.hr/" >
+                            <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/pointer-logo.png" />
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
         
@@ -95,13 +102,6 @@
                     </div>
                 </div>
                 
-                <div class="col-sm-6 col-md-3">
-                    <div class="thumbnail">
-                        <a href="http://www.pointer.hr/" >
-                            <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/pointer-logo.png" alt="Pointer logo" title="Poduzeće POINTER d.o.o. specijalizirano je za primjenu informatičkih tehnologija u trgovini. Naš poslovni uspjeh temelji se na sveobuhvatnoj ponudi hardverskih i softverskih rješenja za trgovinu, na usmjerenju prema zadovoljenju potreba naših korisnika, i prije svega, na našoj stručnosti i visokoj razini usluge koju smo razvili u proteklih 18 godina postojanja. " />
-                        </a>
-                    </div>
-                </div>
             </div>
         </div>
         
@@ -221,7 +221,14 @@
                     <div class="thumbnail">
                         <a href="http://www.hgk.hr/en" ><img class="silver-sponsor-logo-image" src="<?php bloginfo('template_url');?>/sponsors/hgk-text-logo.png" alt="HGK logo" title="Croatian Chamber of Economy" /></a>
                     </div>
-                </div>-->                
+                </div>-->
+		<div class="col-sm-6 col-md-3">         
+                    <div class="thumbnail">         
+                       <a href="http://www.pointer.hr/" >         
+                            <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/pointer-logo.png" />  
+                        </a>         
+           	    </div>         
+       		</div>
             </div>
         </div>
         
@@ -249,13 +256,6 @@
                     </div>
                 </div>
                 
-                <div class="col-sm-6 col-md-3">
-                    <div class="thumbnail">
-                        <a href="http://www.pointer.hr/" >
-                            <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/pointer-logo.png" alt="Pointer logo" title="Poduzeće POINTER d.o.o. specijalizirano je za primjenu informatičkih tehnologija u trgovini. Naš poslovni uspjeh temelji se na sveobuhvatnoj ponudi hardverskih i softverskih rješenja za trgovinu, na usmjerenju prema zadovoljenju potreba naših korisnika, i prije svega, na našoj stručnosti i visokoj razini usluge koju smo razvili u proteklih 18 godina postojanja. " />
-                        </a>
-                    </div>
-                </div>
             </div>
         </div>
         
