@@ -15,7 +15,7 @@
                 <div class="thumbnail gray-bg">
                     <img src="<?php bloginfo('template_url');?>/speakers/unk.gif" alt="This could be you!">
                     <div class="caption">
-                        <h3 class="text-center">Vi?</h3>
+                        <h3 class="text-center">You?</h3>
                         <!--<p>...</p>-->
                     </div>
                 </div>
@@ -24,7 +24,7 @@
                 <div class="thumbnail gray-bg">
                     <img src="<?php bloginfo('template_url');?>/speakers/unk.gif" alt="This could be you!">
                     <div class="caption">
-                        <h3 class="text-center">Vi?</h3>
+                        <h3 class="text-center">You?</h3>
                         <!--<p>...</p>-->
                     </div>
                 </div>
@@ -33,7 +33,7 @@
                 <div class="thumbnail gray-bg">
                     <img src="<?php bloginfo('template_url');?>/speakers/unk.gif" alt="This could be you!">
                     <div class="caption">
-                        <h3 class="text-center">Vi?</h3>
+                        <h3 class="text-center">You?</h3>
                         <!--<p>...</p>-->
                     </div>
                 </div>
@@ -42,7 +42,7 @@
                 <div class="thumbnail gray-bg">
                     <img src="<?php bloginfo('template_url');?>/speakers/unk.gif" alt="This could be you!">
                     <div class="caption">
-                        <h3 class="text-center">Vi?</h3>
+                        <h3 class="text-center">You?</h3>
                         <!--<p>...</p>-->
                     </div>
                 </div>
