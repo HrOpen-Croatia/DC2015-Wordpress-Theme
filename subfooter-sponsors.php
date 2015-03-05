@@ -96,12 +96,10 @@
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3 col-centered">
-                    <div class="thumbnail">
-                        <a href="http://www.site5.com/p/croatia-linux-meetup/" ><img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/site5-new-logo.png" alt="Site5 logo" title="Site5 is an international leader in affordable Web hosting solutions for individuals and businesses. For more than a decade, we have provided award-winning customer support and aggressively-priced hosting solutions to customers on six continents. We offer a variety of shared, reseller, cloud, and VPS hosting solutions from nearly two dozen datacenters located in eight different countries."/>
+                        <a href="http://www.site5.com/p/croatia-linux-meetup/" >
+                            <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/site5-new-logo.png" alt="Site5 logo" title="Site5 is an international leader in affordable Web hosting solutions for individuals and businesses. For more than a decade, we have provided award-winning customer support and aggressively-priced hosting solutions to customers on six continents. We offer a variety of shared, reseller, cloud, and VPS hosting solutions from nearly two dozen datacenters located in eight different countries."/>
                         </a>
-                    </div>
                 </div>
-                
             </div>
         </div>
         
