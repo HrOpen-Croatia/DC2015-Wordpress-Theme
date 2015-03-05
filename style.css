@@ -174,3 +174,7 @@ h2.keynotes {
     /* inline-block space fix */
     margin-right:-4px;
 }
+
+body {
+    overflow-x: hidden;
+}

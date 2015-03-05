@@ -222,13 +222,13 @@
                         <a href="http://www.hgk.hr/en" ><img class="silver-sponsor-logo-image" src="<?php bloginfo('template_url');?>/sponsors/hgk-text-logo.png" alt="HGK logo" title="Croatian Chamber of Economy" /></a>
                     </div>
                 </div>-->
-                <div class="col-xs-3 col-centered">
+                <div class="col-sm-6 col-md-4 col-centered">
                     <div class="thumbnail">         
                        <a href="http://www.pointer.hr/" >         
                             <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/pointer-logo.png" />  
-                        </a>         
+                        </a>      
+                    </div>   
            	    </div>         
-       		</div>
             </div>
         </div>
         
