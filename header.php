@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<?php //theme tutorial used: http://www.onextrapixel.com/2011/03/08/how-to-code-a-wordpress-3-0-theme-from-scratch/ ?>
+<?php //theme tutorial used: http://www.onextrapixel.com/2011/03/08/how-to-code-a-wordpress-3-0-theme-from-scratch/ 
+
+    # Multilanguage quick hack (support)
+    global $lang;
+    $tmp = explode("/",$_SERVER['REQUEST_URI']);
+	$lang = $tmp[1];
+?>
 
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 	

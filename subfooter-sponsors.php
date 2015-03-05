@@ -1,6 +1,6 @@
 <div class="subfooter-sponsors" id="sponsors">
 
-    <?php if ($lang == "en") : ?>
+    <?php global $lang; if ($lang == "en") : ?>
         <h3 class="text-center">Organization:</h3>
 
         <div class="row">

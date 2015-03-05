@@ -3,7 +3,10 @@
 
     <body>
 
-        <?php include("main_menu.php");?>
+        <?php
+            global $lang;
+	        include("main_menu.php");
+        ?>
 
         
         <div class="container heighten-row">

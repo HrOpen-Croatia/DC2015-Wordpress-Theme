@@ -1,8 +1,4 @@
-<?php get_header(); 
-    # Multilanguage quick hack (support)
-	$tmp = explode("/",$_SERVER['REQUEST_URI']);
-	$lang = $tmp[1];
-?>
+<?php get_header(); ?>
 
     <body>
 
