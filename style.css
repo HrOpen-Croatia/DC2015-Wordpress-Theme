@@ -18,6 +18,8 @@ a {
 .header-image {
     background: url(back.jpg) no-repeat top left;
     height: 554px; 
+    background-color: gray;
+    background-position:center;
 }
 
 .main-title {
@@ -177,4 +179,14 @@ h2.keynotes {
 
 body {
     overflow-x: hidden;
+}
+
+.alignleft {
+    float:left;
+    margin-right:10px;
+}
+
+.alignright {
+    float:right;
+    margin-left:10px;
 }
