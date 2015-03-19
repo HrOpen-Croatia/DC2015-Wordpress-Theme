@@ -10,7 +10,7 @@
                     <div class="thumbnail">
                         <a href="http://www.open.hr" >
                             <img class="img-responsive" src="http://www.dorscluc.org/wp-content/uploads/2012/12/hropen-logo-mini.png" alt="HrOpen logo" title="Croatian Association for Open Systems and Internet" />
-                            </a>
+                        </a>
                     </div>
                 </div>
                 
@@ -38,7 +38,9 @@
                 
                 <div class="col-sm-6 col-md-6 col-centered">
                     <div class="thumbnail">
-                        <a href="http://www.fer.hr/en" ><img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/fer.jpg" alt="FER logo" title="Faculty of electrical engineering and computing" /></a>
+                        <a href="http://www.fer.hr/en" >
+                            <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/fer.jpg" alt="FER logo" title="Faculty of electrical engineering and computing" />
+                        </a>
                     </div>
                 </div>
             </div>
@@ -68,7 +70,7 @@
                         <a href="http://www.hgk.hr/en" ><img class="silver-sponsor-logo-image" src="<?php bloginfo('template_url');?>/sponsors/hgk-text-logo.png" alt="HGK logo" title="Croatian Chamber of Economy" /></a>
                     </div>
                 </div>-->                
-		<div class="col-sm-6 col-md-3 col-centered">
+                <div class="col-sm-6 col-md-3 col-centered">
                     <div class="thumbnail">
                         <a href="http://www.pointer.hr/" >
                             <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/pointer-logo.png" />
@@ -86,12 +88,14 @@
             <div class="container">
                 <div class="col-sm-6 col-md-3 col-centered">
                     <div class="thumbnail">
-                        <a href="http://www.carnet.hr" class="sponsor-logo"><img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/carnet.jpg" alt="CARNet logo" title=""/>
+                        <a href="http://www.carnet.hr" class="sponsor-logo">
+                            <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/carnet.jpg" alt="CARNet logo" title=""/>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3 col-centered">
                     <div class="thumbnail">
-                        <a href="http://www.ultima.hr" class="sponsor-logo"><img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/ultima_logo.png" alt="Ultima logo" title=""/>
+                        <a href="http://www.ultima.hr" class="sponsor-logo">
+                            <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/ultima_logo.png" alt="Ultima logo" title=""/>
                         </a>
                     </div>
                 </div>
@@ -102,7 +106,8 @@
                 </div>
                 <div class="col-sm-6 col-md-3 col-centered">
                     <div class="thumbnail">
-                        <a href="http://www.owncloud.org" class="sponsor-logo"><img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/owncloud.png" alt="ownCloud logo" title=""/>
+                        <a href="http://www.owncloud.org" class="sponsor-logo">
+                            <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/owncloud.png" alt="ownCloud logo" title=""/>
                         </a>
                     </div>
                 </div>
@@ -141,16 +146,32 @@
                     </a>
                 </div>
                 
-                <div class="col-sm-6 col-md-2 col-centered"> 
+                <div class="col-sm-6 col-md-2 col-centered">
                     <a href="http://www.linuxzasve.com/" >
-                    <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/lzs-250x125.jpg" alt="Linux za sve logo" title="Linux za sve" />
-                </a>
+                        <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/lzs-250x125.jpg" alt="Linux za sve logo" title="Linux za sve" />
+                    </a>
                 </div>
                 
                 <div class="col-sm-6 col-md-2 col-centered"> 
                     <a href="http://www.veselihackeri.com/" >
                         <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/veseli-hackeri.png" alt="Veseli Hackeri logo" title="Veseli hackeri" />
                     </a>
+                </div>
+                
+                <div class="col-sm-6 col-md-2 col-centered">
+                    <a href="http://www.parentium.com/" >
+                    <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/Parentium.gif" alt="Parentium" title="Parentium" />
+                </a>
+                </div>
+                <div class="col-sm-6 col-md-2 col-centered">
+                    <a href="http://www.netokracija.com/" >
+                    <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/netokracija.png" alt="Netokracija" title="Netokracija" />
+                </a>
+                </div>
+                <div class="col-sm-6 col-md-2 col-centered">
+                    <a href="http://www.eakademik.com/" >
+                    <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/eakademik.png" alt="eAkademik logo" title="eAkademik" />
+                </a>
                 </div>
             </div>
         </div>
@@ -320,6 +341,21 @@
                     </a>
                 </div>
                 
+                <div class="col-sm-6 col-md-2 col-centered">
+                    <a href="http://www.parentium.com/" >
+                    <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/Parentium.gif" alt="Parentium" title="Parentium" />
+                </a>
+                </div>
+                <div class="col-sm-6 col-md-2 col-centered">
+                    <a href="http://www.netokracija.com/" >
+                    <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/netokracija.png" alt="Netokracija" title="Netokracija" />
+                </a>
+                </div>
+                <div class="col-sm-6 col-md-2 col-centered">
+                    <a href="http://www.eakademik.com/" >
+                    <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/eakademik.png" alt="eAkademik logo" title="eAkademik" />
+                </a>
+                </div>
             </div>
         </div>
         

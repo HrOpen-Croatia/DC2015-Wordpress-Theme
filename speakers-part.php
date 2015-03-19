@@ -13,20 +13,21 @@
         <div class="row">
             <div class="col-sm-6 col-md-3">
                 <div class="thumbnail gray-bg">
-                    <a href="/en/keynotes#hansderaad"><img src="<?php bloginfo('template_url');?>/speakers/hansderaad.jpg" alt="Hans De Raad">
+                    <a href="/en/keynotes#hansderaad"><img src="<?php bloginfo('template_url');?>/speakers/hansderaad.jpg" alt="Hans De Raad"></a>
                     <div class="caption">
-                        <h3 class="text-center">Hans de Raad</h3>
-                        <!--<p>...</p>--> 
+                        <h3 class="text-center"><a href="/hr/keynote-predavaci#hansderaad">Hans de Raad</a></h3>
+                        <p>Hans de Raad (DevHdR) is an independent ICT specialist whose expertise mainly focusses on the many dynamic and diverse aspects of human-machine interaction processes.</p> 
                     </div>
-                    </a>
                 </div>
             </div>
             <div class="col-sm-6 col-md-3">
                 <div class="thumbnail gray-bg">
-                    <img src="<?php bloginfo('template_url');?>/speakers/unk.gif" alt="This could be you!">
+                    <a href="/en/keynotes#samtuke">
+                        <img src="<?php bloginfo('template_url');?>/speakers/sam_tuke.jpeg" alt="Sam Tuke, Collabora">
+                    </a>
                     <div class="caption">
-                        <h3 class="text-center">You?</h3>
-                        <!--<p>...</p>-->
+                        <h3 class="text-center"><a href="/hr/keynote-predavaci#samtuke">Sam Tuke</a></h3>
+                        <p>Sam is a Free Software marketer and hacker working for Collabora. He's devised campaigns for GnuPG, ownCloud, LibreOffice, and the FSFE.</p>
                     </div>
                 </div>
             </div>
@@ -69,20 +70,21 @@
         <h2 class="keynotes">Predavači</h2>
         <div class="col-sm-6 col-md-3">
             <div class="thumbnail gray-bg">
-                <a href="/hr/keynote-predavaci#hansderaad"><img src="<?php bloginfo('template_url');?>/speakers/hansderaad.jpg" alt="Hans De Raad">
+                <a href="/hr/keynote-predavaci#hansderaad"><img src="<?php bloginfo('template_url');?>/speakers/hansderaad.jpg" alt="Hans De Raad"></a>
                 <div class="caption">
-                    <h3 class="text-center">Hans de Raad</h3>
-                    <!--<p>...</p>--> 
+                    <h3 class="text-center"><a href="/hr/keynote-predavaci#hansderaad">Hans de Raad</a></h3>
+                    <p>Hans de Raad (DevHdR) is an independent ICT specialist whose expertise mainly focusses on the many dynamic and diverse aspects of human-machine interaction processes.</p> 
                 </div>
-                </a>
             </div>
         </div>
         <div class="col-sm-6 col-md-3">
             <div class="thumbnail gray-bg">
-                <img src="<?php bloginfo('template_url');?>/speakers/unk.gif" alt="Ovo možete biti Vi!">
+                <a href="/hr/keynote-predavaci#samtuke">
+                    <img src="<?php bloginfo('template_url');?>/speakers/sam_tuke.jpeg" alt="Sam Tuke, Collabora">
+                </a>
                 <div class="caption">
-                    <h3 class="text-center">Vi?</h3>
-                    <!--<p>...</p>-->
+                    <h3 class="text-center"><a href="/hr/keynote-predavaci#samtuke">Sam Tuke</a></h3>
+                    <p>Sam is a Free Software marketer and hacker working for Collabora. He's devised campaigns for GnuPG, ownCloud, LibreOffice, and the FSFE.</p>
                 </div>
             </div>
         </div>
