@@ -100,12 +100,6 @@
                             <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/site5-new-logo.png" alt="Site5 logo" title="Site5 is an international leader in affordable Web hosting solutions for individuals and businesses. For more than a decade, we have provided award-winning customer support and aggressively-priced hosting solutions to customers on six continents. We offer a variety of shared, reseller, cloud, and VPS hosting solutions from nearly two dozen datacenters located in eight different countries."/>
                         </a>
                 </div>
-                <div class="col-sm-6 col-md-3 col-centered">
-                    <div class="thumbnail">
-                        <a href="http://www.owncloud.org" class="sponsor-logo"><img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/owncloud.png" alt="ownCloud logo" title=""/>
-                        </a>
-                    </div>
-                </div>
             </div>
         </div>
         
@@ -145,12 +139,6 @@
                     <a href="http://www.linuxzasve.com/" >
                     <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/lzs-250x125.jpg" alt="Linux za sve logo" title="Linux za sve" />
                 </a>
-                </div>
-                
-                <div class="col-sm-6 col-md-2 col-centered"> 
-                    <a href="http://www.veselihackeri.com/" >
-                        <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/veseli-hackeri.png" alt="Veseli Hackeri logo" title="Veseli hackeri" />
-                    </a>
                 </div>
             </div>
         </div>
@@ -266,13 +254,6 @@
                     </div>
                 </div>
                 
-                <div class="col-sm-6 col-md-3 col-centered">
-                    <div class="thumbnail">
-                        <a href="http://www.owncloud.org" class="sponsor-logo"><img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/owncloud.png" alt="ownCloud logo" title=""/>
-                        </a>
-                    </div>
-                </div>
-                
             </div>
         </div>
         
@@ -310,16 +291,9 @@
                 
                 <div class="col-sm-6 col-md-2 col-centered">
                     <a href="http://www.linuxzasve.com/" >
-                        <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/lzs-250x125.jpg" alt="Linux za sve logo" title="Linux za sve" />
-                    </a>
+                    <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/lzs-250x125.jpg" alt="Linux za sve logo" title="Linux za sve" />
+                </a>
                 </div>
-                
-                <div class="col-sm-6 col-md-2 col-centered"> 
-                    <a href="http://www.veselihackeri.com/" >
-                        <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/veseli-hackeri.png" alt="Veseli Hackeri logo" title="Veseli hackeri" />
-                    </a>
-                </div>
-                
             </div>
         </div>
         
