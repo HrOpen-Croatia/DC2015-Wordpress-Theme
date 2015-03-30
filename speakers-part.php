@@ -33,10 +33,12 @@
             </div>
             <div class="col-sm-6 col-md-3">
                 <div class="thumbnail gray-bg">
-                    <img src="<?php bloginfo('template_url');?>/speakers/unk.gif" alt="This could be you!">
+                    <a href="/en/keynotes#guidoarnold">
+                        <img src="<?php bloginfo('template_url');?>/speakers/guido-arnold.jpg" alt="Guido Arnold">
+                    </a>
                     <div class="caption">
-                        <h3 class="text-center">You?</h3>
-                        <!--<p>...</p>-->
+                        <h3 class="text-center">Guido Arnold</h3>
+                        <p>Free Software Foundation Europe education team</p>
                     </div>
                 </div>
             </div>
@@ -90,11 +92,13 @@
         </div>
         <div class="col-sm-6 col-md-3">
             <div class="thumbnail gray-bg">
-                <img src="<?php bloginfo('template_url');?>/speakers/unk.gif" alt="Ovo možete biti Vi!">
-                <div class="caption">
-                    <h3 class="text-center">Vi?</h3>
-                    <!--<p>...</p>-->
-                </div>
+                <a href="/hr/keynote-predavaci#guidoarnold">
+                        <img src="<?php bloginfo('template_url');?>/speakers/guido-arnold.jpg" alt="Guido Arnold">
+                    </a>
+                    <div class="caption">
+                        <h3 class="text-center">Guido Arnold</h3>
+                        <p>Free Software Foundation Europe education team</p>
+                    </div>
             </div>
         </div>
         <div class="col-sm-6 col-md-3">
