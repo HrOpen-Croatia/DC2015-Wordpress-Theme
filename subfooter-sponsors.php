@@ -72,6 +72,13 @@
                 </div>-->                
                 <div class="col-sm-6 col-md-3 col-centered">
                     <div class="thumbnail">
+                        <a href="http://www.infobip.com/about/people/" >
+                            <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/Infobip-logoCMYK.png" />
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 col-centered">
+                    <div class="thumbnail">
                         <a href="http://www.pointer.hr/" >
                             <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/pointer-logo.png" />
                         </a>
@@ -170,8 +177,13 @@
                 </div>
                 <div class="col-sm-6 col-md-2 col-centered">
                     <a href="http://www.eakademik.com/" >
-                    <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/eakademik.png" alt="eAkademik logo" title="eAkademik" />
-                </a>
+                        <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/eakademik.png" alt="eAkademik logo" title="eAkademik" />
+                    </a>
+                </div>
+                <div class="col-sm-6 col-md-2 col-centered">
+                    <a href="http://www.linuxfoundation.org/" >
+                        <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/linux_foundation_logo.png" alt="Linux foundation" title="Linux foundation" />
+                    </a>
                 </div>
             </div>
         </div>
@@ -253,6 +265,13 @@
                         <a href="http://www.hgk.hr/en" ><img class="silver-sponsor-logo-image" src="<?php bloginfo('template_url');?>/sponsors/hgk-text-logo.png" alt="HGK logo" title="Croatian Chamber of Economy" /></a>
                     </div>
                 </div>-->
+                <div class="col-sm-6 col-md-3 col-centered">
+                    <div class="thumbnail">
+                        <a href="http://www.infobip.com/about/people/" >
+                            <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/Infobip-logoCMYK.png" />
+                        </a>
+                    </div>
+                </div>
                 <div class="col-sm-6 col-md-4 col-centered">
                     <div class="thumbnail">         
                        <a href="http://www.pointer.hr/" >         
@@ -355,6 +374,11 @@
                     <a href="http://www.eakademik.com/" >
                     <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/eakademik.png" alt="eAkademik logo" title="eAkademik" />
                 </a>
+                </div>
+                <div class="col-sm-6 col-md-2 col-centered">
+                    <a href="http://www.linuxfoundation.org/" >
+                        <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/linux_foundation_logo.png" alt="Linux foundation" title="Linux foundation" />
+                    </a>
                 </div>
             </div>
         </div>
