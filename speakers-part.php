@@ -63,7 +63,7 @@
 
 <div class="row gray-bg">
     <div class="container">
-        <p class="blue-text">Call for speakers is open!<br><a href="/en/talk-and-workshop-applications/" class="btn btn-primary" role="button">Apply here!</a></p>
+        <!--<p class="blue-text">Call for speakers is open!<br><a href="/en/talk-and-workshop-applications/" class="btn btn-primary" role="button">Apply here!</a></p>-->
     </div>
 </div>
 
@@ -125,7 +125,7 @@
 
 <div class="row gray-bg">
     <div class="container ">
-        <p class="blue-text">Poziv predavačima je objavljen!<br><a href="/hr/prijave-predavanja-i-radionica/" class="btn btn-primary" role="button">Prijavite se!</a></p>
+        <!--<p class="blue-text">Poziv predavačima je objavljen!<br><a href="/hr/prijave-predavanja-i-radionica/" class="btn btn-primary" role="button">Prijavite se!</a></p>-->
     </div>
 </div>
 

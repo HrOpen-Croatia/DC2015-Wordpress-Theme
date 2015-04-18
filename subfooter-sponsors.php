@@ -185,6 +185,11 @@
                         <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/linux_foundation_logo.png" alt="Linux foundation" title="Linux foundation" />
                     </a>
                 </div>
+                <div class="col-sm-6 col-md-2 col-centered">
+                    <a href="http://www.jatrgovac.com/" >
+                        <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/logo-ja-trgovac.jpg" alt="Ja Trgovac logo" title="Ja Trgovac" />
+                    </a>
+                </div>
             </div>
         </div>
         
@@ -378,6 +383,11 @@
                 <div class="col-sm-6 col-md-2 col-centered">
                     <a href="http://www.linuxfoundation.org/" >
                         <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/linux_foundation_logo.png" alt="Linux foundation" title="Linux foundation" />
+                    </a>
+                </div>
+                <div class="col-sm-6 col-md-2 col-centered">
+                    <a href="http://www.jatrgovac.com/" >
+                        <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/logo-ja-trgovac.jpg" alt="Ja Trgovac logo" title="Ja Trgovac" />
                     </a>
                 </div>
             </div>
