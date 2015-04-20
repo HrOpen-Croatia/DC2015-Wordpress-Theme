@@ -37,7 +37,7 @@
                         <img src="<?php bloginfo('template_url');?>/speakers/guido-arnold.jpg" alt="Guido Arnold">
                     </a>
                     <div class="caption">
-                        <h3 class="text-center">Guido Arnold</h3>
+                        <h3 class="text-center"><a href="/en/keynotes#guidoarnold">Guido Arnold</a></h3>
                         <p>Free Software Foundation Europe education team</p>
                     </div>
                 </div>
@@ -48,7 +48,7 @@
                         <img src="<?php bloginfo('template_url');?>/speakers/jospoortvliet.jpg" alt="Jos Poortvliet">
                     </a>
                     <div class="caption">
-                        <h3 class="text-center">Jos Poortvliet</h3>
+                        <h3 class="text-center"><a href="/en/keynotes#jospoortvliet">Jos Poortvliet</a></h3>
                         <p>People person, technology enthusiast and all-things-open evangelist. 
                         Community manager at ownCloud, SUSE and KDE marketing veteran, loves biking 
                         through Berlin and cooking for friends and family.
@@ -101,7 +101,7 @@
                         <img src="<?php bloginfo('template_url');?>/speakers/guido-arnold.jpg" alt="Guido Arnold">
                     </a>
                     <div class="caption">
-                        <h3 class="text-center">Guido Arnold</h3>
+                        <h3 class="text-center"><a href="/hr/keynote-predavaci#guidoarnold">Guido Arnold</a></h3>
                         <p>Free Software Foundation Europe education team</p>
                     </div>
             </div>
@@ -112,7 +112,7 @@
                     <img src="<?php bloginfo('template_url');?>/speakers/jospoortvliet.jpg" alt="Jos Poortvliet">
                 </a>
                 <div class="caption">
-                    <h3 class="text-center">Jos Poortvliet</h3>
+                    <h3 class="text-center"><a href="/hr/keynote-predavaci#jospoortvliet">Jos Poortvliet</a></h3>
                     <p>People person, technology enthusiast and all-things-open evangelist. 
                     Community manager at ownCloud, SUSE and KDE marketing veteran, loves biking 
                     through Berlin and cooking for friends and family.

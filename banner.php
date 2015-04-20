@@ -14,7 +14,7 @@
 	        <div class="row">
                 <div class="col-md-12 date">
                     May, 18<sup>th</sup> - 20<sup>th</sup>, 2015</span><span class="sub_date"><br>
-                    <a class="where" href="http://osm.org/go/0Ismjz4s1?m=&node=635075827" target="_blank">Unska 3,</a> <a  class="where" href="http://www.fer.hr">FER - Zagreb, Croatia</a> 
+                    <a class="where" href="http://osm.org/go/0Ismjz4s1" target="_blank">Unska 3,</a> <a  class="where" href="http://www.fer.hr">FER - Zagreb, Croatia</a> 
                 </div>
             </div>-->
             <div class="row">
@@ -22,7 +22,7 @@
                     <h3>May 18<sup>th</sup> - 20<sup>th</sup>, 2015</h3>
                     <h4>ZAGREB</h4>
                     <h4>
-                    <a href="http://osm.org/go/0Ismjz4s1?m=&node=635075827">Faculty of Electrical Engineering and Computing, Unska 3</a>
+                    <a href="http://osm.org/go/0Ismjz4s1?m=">Faculty of Electrical Engineering and Computing, Unska 3</a>
                     </h4>
                 </div>
            </div>
@@ -66,7 +66,7 @@
 	        <!--<div class="row">
                 <div class="col-md-12 date">
                     18. - 20. svibnja, 2015.<span class="sub_date"><br>
-                    <a class="where" href="http://osm.org/go/0Ismjz4s1?m=&node=635075827" target="_blank">Unska 3,</a> <a  class="where" href="http://www.fer.hr">FER - Zagreb</a> 
+                    <a class="where" href="http://osm.org/go/0Ismjz4s1" target="_blank">Unska 3,</a> <a  class="where" href="http://www.fer.hr">FER - Zagreb</a> 
                 </div>
             </div>-->
             
@@ -75,7 +75,7 @@
                     <h3>18. - 20. svibnja 2015.</h3>
                     <h4>ZAGREB</h4>
                     <h4>
-                    <a href="http://osm.org/go/0Ismjz4s1?m=&node=635075827">Fakultet elektrotehnike i računarstva, Unska 3</a>
+                    <a href="http://osm.org/go/0Ismjz4s1?m=">Fakultet elektrotehnike i računarstva, Unska 3</a>
                     </h4>
                 </div>
            </div>
