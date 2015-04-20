@@ -16,9 +16,9 @@ a {
 }
 
 .header-image {
-    background: url(back.jpg) no-repeat top left;
+    background: url(head-back.png) no-repeat top left;
     height: 554px; 
-    background-color: #3278b3;
+    background-color: #9cc1d1;
     background-position:center;
 }
 
