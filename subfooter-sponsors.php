@@ -120,6 +120,16 @@
                 </div>
             </div>
         </div>
+        <div class="row sponsors row-centered">
+            <div class="container">
+                <div class="col-sm-6 col-md-3 col-centered">
+                    <div class="thumbnail">
+                        <a href="http://www.mozilla.org" class="sponsor-logo">
+                            <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/mozilla-foundation.png" alt="Mozilla foundation" title=""/>
+                    </div>
+                </div>
+            </div>
+        </div>
         
         
 
@@ -318,6 +328,16 @@
                     </div>
                 </div>
                 
+            </div>
+        </div>
+        <div class="row sponsors row-centered">
+            <div class="container">
+                <div class="col-sm-6 col-md-3 col-centered">
+                    <div class="thumbnail">
+                        <a href="http://www.mozilla.org" class="sponsor-logo">
+                            <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/mozilla-foundation.png" alt="Mozilla foundation" title=""/>
+                    </div>
+                </div>
             </div>
         </div>
         

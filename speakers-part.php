@@ -11,7 +11,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-6 col-md-3">
+            <div class="col-sm-6 col-md-2">
                 <div class="thumbnail gray-bg">
                     <a href="/en/keynotes#hansderaad"><img src="<?php bloginfo('template_url');?>/speakers/hansderaad.jpg" alt="Hans De Raad"></a>
                     <div class="caption">
@@ -20,7 +20,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-3">
+            <div class="col-sm-6 col-md-2">
                 <div class="thumbnail gray-bg">
                     <a href="/en/keynotes#samtuke">
                         <img src="<?php bloginfo('template_url');?>/speakers/sam_tuke.jpeg" alt="Sam Tuke, Collabora">
@@ -31,7 +31,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-3">
+            <div class="col-sm-6 col-md-2">
                 <div class="thumbnail gray-bg">
                     <a href="/en/keynotes#guidoarnold">
                         <img src="<?php bloginfo('template_url');?>/speakers/guido-arnold.jpg" alt="Guido Arnold">
@@ -42,7 +42,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-3">
+            <div class="col-sm-6 col-md-2">
                 <div class="thumbnail gray-bg">
                     <a href="/en/keynotes#jospoortvliet">
                         <img src="<?php bloginfo('template_url');?>/speakers/jospoortvliet.jpg" alt="Jos Poortvliet">
@@ -50,9 +50,18 @@
                     <div class="caption">
                         <h3 class="text-center"><a href="/en/keynotes#jospoortvliet">Jos Poortvliet</a></h3>
                         <p>People person, technology enthusiast and all-things-open evangelist. 
-                        Community manager at ownCloud, SUSE and KDE marketing veteran, loves biking 
-                        through Berlin and cooking for friends and family.
                         </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-2">
+                <div class="thumbnail gray-bg">
+                    <a href="/en/keynotes#gijs"><img src="<?php bloginfo('template_url');?>/speakers/gijs.jpg" alt="Gijs Helenius"></a>
+                    <div class="caption">
+                        <h3 class="text-center"><a href="/hr/keynote-predavaci#gijs">Gijs Hillenius</a></h3>
+                        <p>Gijs Hillenius is the expert team leader and senior editor for the
+    European Commission's Open Source Observatory & Repository (OSOR.eu),
+    part of Joinup.ec.europa.eu</p> 
                     </div>
                 </div>
             </div>
@@ -72,10 +81,10 @@
 <?php else: ?>
 
 
-<div class="row gray-bg">
+<div class="row gray-bg row-centered">
     <div class="container">
         <h2 class="keynotes">Predavači</h2>
-        <div class="col-sm-6 col-md-3">
+        <div class="col-sm-6 col-md-2">
             <div class="thumbnail gray-bg">
                 <a href="/hr/keynote-predavaci#hansderaad"><img src="<?php bloginfo('template_url');?>/speakers/hansderaad.jpg" alt="Hans De Raad"></a>
                 <div class="caption">
@@ -84,7 +93,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-sm-6 col-md-3">
+        <div class="col-sm-6 col-md-2">
             <div class="thumbnail gray-bg">
                 <a href="/hr/keynote-predavaci#samtuke">
                     <img src="<?php bloginfo('template_url');?>/speakers/sam_tuke.jpeg" alt="Sam Tuke, Collabora">
@@ -95,7 +104,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-sm-6 col-md-3">
+        <div class="col-sm-6 col-md-2">
             <div class="thumbnail gray-bg">
                 <a href="/hr/keynote-predavaci#guidoarnold">
                         <img src="<?php bloginfo('template_url');?>/speakers/guido-arnold.jpg" alt="Guido Arnold">
@@ -106,7 +115,7 @@
                     </div>
             </div>
         </div>
-        <div class="col-sm-6 col-md-3">
+        <div class="col-sm-6 col-md-2">
             <div class="thumbnail gray-bg">
                 <a href="/hr/keynote-predavaci#jospoortvliet">
                     <img src="<?php bloginfo('template_url');?>/speakers/jospoortvliet.jpg" alt="Jos Poortvliet">
@@ -114,9 +123,24 @@
                 <div class="caption">
                     <h3 class="text-center"><a href="/hr/keynote-predavaci#jospoortvliet">Jos Poortvliet</a></h3>
                     <p>People person, technology enthusiast and all-things-open evangelist. 
-                    Community manager at ownCloud, SUSE and KDE marketing veteran, loves biking 
-                    through Berlin and cooking for friends and family.
                     </p>
+                </div>
+            </div>
+        </div>
+        <!--
+        <div class="col-sm-6 col-md-3">
+            <div class="thumbnail gray-bg">
+            </div>
+        </div>
+        -->
+        <div class="col-sm-6 col-md-2">
+            <div class="thumbnail gray-bg">
+                <a href="/hr/keynote-predavaci#gijs"><img src="<?php bloginfo('template_url');?>/speakers/gijs.jpg" alt="Gijs Helenius"></a>
+                <div class="caption">
+                    <h3 class="text-center"><a href="/hr/keynote-predavaci#gijs">Gijs Hillenius</a></h3>
+                    <p>Gijs Hillenius is the expert team leader and senior editor for the
+European Commission's Open Source Observatory & Repository (OSOR.eu),
+part of Joinup.ec.europa.eu</p> 
                 </div>
             </div>
         </div>
