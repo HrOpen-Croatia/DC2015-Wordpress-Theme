@@ -11,6 +11,16 @@
             </div>
         </div>
         <div class="row">
+            
+            <div class="col-sm-6 col-md-2">
+                <div class="thumbnail gray-bg">
+                    <a href="/en/keynotes#brianking"><img src="<?php bloginfo('template_url');?>/speakers/brianking.jpg" alt="Brian King"></a>
+                    <div class="caption">
+                        <h3 class="text-center"><a href="/en/keynotes#brianking">Brian King</a></h3>
+                        <p>Community Development Regional Lead at Mozilla</p> 
+                    </div>
+                </div>
+            </div>
             <div class="col-sm-6 col-md-2">
                 <div class="thumbnail gray-bg">
                     <a href="/en/keynotes#hansderaad"><img src="<?php bloginfo('template_url');?>/speakers/hansderaad.jpg" alt="Hans De Raad"></a>
@@ -58,13 +68,14 @@
                 <div class="thumbnail gray-bg">
                     <a href="/en/keynotes#gijs"><img src="<?php bloginfo('template_url');?>/speakers/gijs.jpg" alt="Gijs Helenius"></a>
                     <div class="caption">
-                        <h3 class="text-center"><a href="/hr/keynote-predavaci#gijs">Gijs Hillenius</a></h3>
+                        <h3 class="text-center"><a href="/en/keynotes#gijs">Gijs Hillenius</a></h3>
                         <p>Gijs Hillenius is the expert team leader and senior editor for the
     European Commission's Open Source Observatory & Repository (OSOR.eu),
     part of Joinup.ec.europa.eu</p> 
                     </div>
                 </div>
             </div>
+            
         </div> <!-- row -->
         
     </div>
@@ -84,6 +95,17 @@
 <div class="row gray-bg row-centered">
     <div class="container">
         <h2 class="keynotes">Predavači</h2>
+        
+        <div class="col-sm-6 col-md-2">
+            <div class="thumbnail gray-bg">
+                <a href="/hr/keynote-predavaci#brianking"><img src="<?php bloginfo('template_url');?>/speakers/brianking.jpg" alt="Brian King"></a>
+                <div class="caption">
+                    <h3 class="text-center"><a href="/hr/keynote-predavaci#brianking">Brian King</a></h3>
+                    <p>Community Development Regional Lead at Mozilla</p> 
+                </div>
+            </div>
+        </div>
+        
         <div class="col-sm-6 col-md-2">
             <div class="thumbnail gray-bg">
                 <a href="/hr/keynote-predavaci#hansderaad"><img src="<?php bloginfo('template_url');?>/speakers/hansderaad.jpg" alt="Hans De Raad"></a>
@@ -144,6 +166,7 @@ part of Joinup.ec.europa.eu</p>
                 </div>
             </div>
         </div>
+        
     </div>
 </div>
 

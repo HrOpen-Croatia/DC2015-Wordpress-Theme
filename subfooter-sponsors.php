@@ -128,6 +128,18 @@
                             <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/mozilla-foundation.png" alt="Mozilla foundation" title=""/>
                     </div>
                 </div>
+                <div class="col-sm-6 col-md-3 col-centered">
+                    <div class="thumbnail">
+                        <a href="http://www.srce.unizg.hr" class="sponsor-logo">
+                            <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/srce.png" alt="Sveučilišni računkski centar" title=""/>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 col-centered">
+                    <div class="thumbnail">
+                        <a href="http://www.facebook.com" class="sponsor-logo">
+                            <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/facebook.png" alt="Facebook" title=""/>
+                    </div>
+                </div>
             </div>
         </div>
         
@@ -336,6 +348,18 @@
                     <div class="thumbnail">
                         <a href="http://www.mozilla.org" class="sponsor-logo">
                             <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/mozilla-foundation.png" alt="Mozilla foundation" title=""/>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 col-centered">
+                    <div class="thumbnail">
+                        <a href="http://www.srce.unizg.hr" class="sponsor-logo">
+                            <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/srce.png" alt="Sveučilišni računkski centar" title=""/>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 col-centered">
+                    <div class="thumbnail">
+                        <a href="http://www.facebook.com" class="sponsor-logo">
+                            <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/facebook.png" alt="Facebook" title=""/>
                     </div>
                 </div>
             </div>
