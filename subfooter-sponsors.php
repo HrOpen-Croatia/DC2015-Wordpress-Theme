@@ -95,13 +95,13 @@
             <div class="container">
                 <div class="col-sm-6 col-md-3 col-centered">
                     <div class="thumbnail">
-                        <a href="http://www.carnet.hr" class="sponsor-logo">
+                        <a href="http://www.carnet.hr" >
                             <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/carnet.jpg" alt="CARNet logo" title=""/>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3 col-centered">
                     <div class="thumbnail">
-                        <a href="http://www.ultima.hr" class="sponsor-logo">
+                        <a href="http://www.ultima.hr" >
                             <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/ultima_logo.png" alt="Ultima logo" title=""/>
                         </a>
                     </div>
@@ -113,7 +113,7 @@
                 </div>
                 <div class="col-sm-6 col-md-3 col-centered">
                     <div class="thumbnail">
-                        <a href="http://www.owncloud.org" class="sponsor-logo">
+                        <a href="http://www.owncloud.org" >
                             <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/owncloud.png" alt="ownCloud logo" title=""/>
                         </a>
                     </div>
@@ -124,20 +124,30 @@
             <div class="container">
                 <div class="col-sm-6 col-md-3 col-centered">
                     <div class="thumbnail">
-                        <a href="http://www.mozilla.org" class="sponsor-logo">
+                        <a href="http://www.mozilla.org">
                             <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/mozilla-foundation.png" alt="Mozilla foundation" title=""/>
+                            </a>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3 col-centered">
                     <div class="thumbnail">
-                        <a href="http://www.srce.unizg.hr" class="sponsor-logo">
+                        <a href="http://www.srce.unizg.hr">
                             <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/srce.png" alt="Sveučilišni računkski centar" title=""/>
+                            </a>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3 col-centered">
                     <div class="thumbnail">
-                        <a href="http://www.facebook.com" class="sponsor-logo">
+                        <a href="http://www.facebook.com">
                             <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/facebook.png" alt="Facebook" title=""/>
+                            </a>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 col-centered">
+                    <div class="thumbnail">
+                        <a href="https://libreoffice-from-collabora.com/">
+                            <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/libreoffice.png" alt="The Document Foundation" title=""/>
+                            </a>
                     </div>
                 </div>
             </div>
@@ -165,7 +175,7 @@
         <div class="row micro-sponsors row-centered">
             <div class="container">
                 <div class="col-sm-6 col-md-2 col-centered">
-                    <a href="http://www.racunalo.com/" class="sponsor-logo media-sponsor-logo vam">
+                    <a href="http://www.racunalo.com/" >
                         <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/racunalo_com.png" alt="Racunalo.com logo" title="" />
                     </a>
                 </div>
@@ -317,12 +327,12 @@
             <div class="container">
                 <div class="col-sm-6 col-md-3 col-centered">
                     <div class="thumbnail">
-                        <a href="http://www.carnet.hr" class="sponsor-logo"><img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/carnet.jpg" alt="CARNet logo" title=""/>
+                        <a href="http://www.carnet.hr" ><img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/carnet.jpg" alt="CARNet logo" title=""/></a>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3 col-centered">
                     <div class="thumbnail">
-                        <a href="http://www.ultima.hr" class="sponsor-logo"><img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/ultima_logo.png" alt="Ultima logo" title=""/>
+                        <a href="http://www.ultima.hr" ><img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/ultima_logo.png" alt="Ultima logo" title=""/>
                         </a>
                     </div>
                 </div>
@@ -335,7 +345,7 @@
                 
                 <div class="col-sm-6 col-md-3 col-centered">
                     <div class="thumbnail">
-                        <a href="http://www.owncloud.org" class="sponsor-logo"><img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/owncloud.png" alt="ownCloud logo" title=""/>
+                        <a href="http://www.owncloud.org" ><img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/owncloud.png" alt="ownCloud logo" title=""/>
                         </a>
                     </div>
                 </div>
@@ -346,20 +356,30 @@
             <div class="container">
                 <div class="col-sm-6 col-md-3 col-centered">
                     <div class="thumbnail">
-                        <a href="http://www.mozilla.org" class="sponsor-logo">
+                        <a href="http://www.mozilla.org" >
                             <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/mozilla-foundation.png" alt="Mozilla foundation" title=""/>
+                            </a>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3 col-centered">
                     <div class="thumbnail">
-                        <a href="http://www.srce.unizg.hr" class="sponsor-logo">
+                        <a href="http://www.srce.unizg.hr">
                             <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/srce.png" alt="Sveučilišni računkski centar" title=""/>
+                            </a>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3 col-centered">
                     <div class="thumbnail">
-                        <a href="http://www.facebook.com" class="sponsor-logo">
+                        <a href="http://www.facebook.com">
                             <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/facebook.png" alt="Facebook" title=""/>
+                            </a>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 col-centered">
+                    <div class="thumbnail">
+                        <a href="https://libreoffice-from-collabora.com/">
+                            <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/libreoffice.png" alt="The Document Foundation" title=""/>
+                            </a>
                     </div>
                 </div>
             </div>
@@ -387,7 +407,7 @@
         <div class="row micro-sponsors row-centered">
             <div class="container">
                 <div class="col-sm-6 col-md-2 col-centered">
-                    <a href="http://www.racunalo.com/" class="sponsor-logo media-sponsor-logo vam">
+                    <a href="http://www.racunalo.com/" >
                         <img class="img-responsive" src="<?php bloginfo('template_url');?>/sponsors/racunalo_com.png" alt="Racunalo.com logo" title="" />
                     </a>
                 </div>
